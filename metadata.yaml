@@ -1,5 +1,8 @@
 _repo: Midnight-Jack-or-The-road-agent_52788
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52788-h/images/cover.jpg
 creator:
   author:
     agent_name: Harbaugh, T. C. (Thomas Chalmers)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '36351'
     url: http://www.gutenberg.org/2009/agents/36351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52788#Midnight-Jack-or-The-road-agent
 gutenberg_issued: '2016-08-12'
 gutenberg_type: Text
 identifiers:
